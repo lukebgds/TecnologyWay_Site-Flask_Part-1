@@ -1,4 +1,4 @@
-# TecnologyWay - MakingQUIZ - Apresentação
+# TecnologyWay - Site sem Framework
 
 [![Licença](https://img.shields.io/badge/Licença-MIT-blue)](https://github.com/lukebgds/TecnologyWay/blob/main/LICENSE)
 

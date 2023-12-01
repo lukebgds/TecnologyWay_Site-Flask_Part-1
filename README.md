@@ -1,4 +1,4 @@
-# TecnologyWay - Site sem Framework
+# TecnologyWay - Site sem Framework, com Deploy(Vercel)
 
 [![Licença](https://img.shields.io/badge/Licença-MIT-blue)](https://github.com/lukebgds/TecnologyWay/blob/main/LICENSE)
 

@@ -28,9 +28,5 @@ Estamos abertos a ideias, sugestões e colaborações! Se você acredita no pote
 - Luiz Eduardo Negri - 01224564
 - Rodin Sarmento - 01507133
 
-**Faculdade:** UNINASSAU
-
-**Curso:** Computer Science
-
 ### Contato
 Para saber mais sobre nós e nosso projeto, visite [Nosso Site](https://tecnology-way.vercel.app/) (Deploy Vercel).

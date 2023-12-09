@@ -28,5 +28,7 @@ Estamos abertos a ideias, sugestões e colaborações! Se você acredita no pote
 - Luiz Eduardo Negri - 01224564
 - Rodin Sarmento - 01507133
 
+``Todos os Direitos Reservados``
+
 ### Contato
 Para saber mais sobre nós e nosso projeto, visite [Nosso Site](https://tecnology-way.vercel.app/) (Deploy Vercel).

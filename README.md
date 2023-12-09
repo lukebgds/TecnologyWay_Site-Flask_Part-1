@@ -4,7 +4,7 @@
 
 Bem-vindo ao guia prático para a criação de um site simples com Flask, um poderoso framework web em Python. Este projeto foi elaborado para proporcionar uma visão detalhada de cada etapa do desenvolvimento, desde a configuração inicial de um site básico com deploy, passando pela implementação do Framework, até finalizar com o deploy na plataforma Heroku.
 
-***Nesta primeira parte do projeto*** 	`#0969DA` ``"Site_Flask - Mini Tutorial"``, mergulharemos na construção de um website básico sem a utilização de um framework. O objetivo é proporcionar uma visão panorâmica dos elementos essenciais do desenvolvimento web.
+***Nesta primeira parte do projeto*** ``"Site_Flask - Mini Tutorial"``, mergulharemos na construção de um website básico sem a utilização de um framework. O objetivo é proporcionar uma visão panorâmica dos elementos essenciais do desenvolvimento web.
 
 Ao explorar a configuração de páginas, a estilização com HTML, CSS e JavaScript, este projeto oferece uma oportunidade de compreender os fundamentos do desenvolvimento web. Criar um site do zero possibilita uma compreensão mais profunda de como esses elementos se interconectam para criar uma experiência de usuário completa.
 

@@ -1,7 +1,5 @@
 # TecnologyWay - Site sem Framework, com Deploy(Vercel)
 
-[![Licença](https://img.shields.io/badge/Licença-MIT-blue)](https://github.com/lukebgds/TecnologyWay/blob/main/LICENSE)
-
 ## Sobre
 Bem-vindo ao TecnologyWay! Somos uma startup dedicada a criar soluções educacionais inovadoras. O MakingQUIZ é nossa mais recente empreitada, uma IA voltada para a criação de questionários interativos e personalizados, visando aprimorar a experiência de aprendizagem dos usuários.
 

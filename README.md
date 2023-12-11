@@ -10,6 +10,8 @@ Ao explorar a configuração de páginas, a estilização com HTML, CSS e JavaSc
 
 Ao finalizar esta parte, será possível realizar o deploy do site na plataforma Vercel, demonstrando a aplicação prática dos conhecimentos adquiridos. Este repositório oferece os recursos e arquivos necessários para explorar e compreender o processo de construção de um site sem a dependência de um framework específico.
 
+``Construa seu próprio projeto, personalize as páginas: HTML, Css e Java Script, como quiser, de preferência obedecendo à mesma formatação da estrutura das pastas. ATENÇÃO, a má formatação da estrutura das páginas pode ocasionar erros no deploy, fique atento.``.
+
 ---
 
 ## Rápida introdução ao tema do site

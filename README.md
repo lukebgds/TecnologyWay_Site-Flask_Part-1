@@ -26,9 +26,9 @@ O MakingQUIZ busca revolucionar a forma como questionários e avaliações educa
 Estamos abertos a ideias, sugestões e colaborações! Se você acredita no potencial do MakingQUIZ e quer contribuir para o desenvolvimento, sinta-se à vontade para entrar em contato ou fazer um fork deste repositório.
 
 ### Integrantes
-- Lucas Benício Gusmão da Silva - 01506393
-- Luiz Eduardo Negri - 01224564
-- Rodin Sarmento - 01507133
+- Lucas Benício Gusmão da Silva
+- Luiz Eduardo Negri
+- Rodin Sarmento
 
 ``Todos os Direitos Reservados``
 

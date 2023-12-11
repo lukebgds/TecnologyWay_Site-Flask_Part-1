@@ -33,4 +33,4 @@ Estamos abertos a ideias, sugestões e colaborações! Se você acredita no pote
 ``Todos os Direitos Reservados``
 
 ### Contato
-Para saber mais sobre nós e nosso projeto, visite [Nosso Site](https://tecnology-way.vercel.app/) (Deploy Vercel).
+Para saber mais sobre nós e nosso projeto, visite [Nosso Site](https://tecnology-way.vercel.app) (Deploy Vercel).

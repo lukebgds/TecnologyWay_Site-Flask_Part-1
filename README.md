@@ -25,10 +25,8 @@ O MakingQUIZ busca revolucionar a forma como questionários e avaliações educa
 ### Contribuição
 Estamos abertos a ideias, sugestões e colaborações! Se você acredita no potencial do MakingQUIZ e quer contribuir para o desenvolvimento, sinta-se à vontade para entrar em contato ou fazer um fork deste repositório.
 
-### Integrantes
+### Autor
 - Lucas Benício Gusmão da Silva
-- Luiz Eduardo Negri
-- Rodin Sarmento
 
 ``Todos os Direitos Reservados``
 

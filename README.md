@@ -14,7 +14,7 @@ Ao finalizar esta parte, será possível realizar o deploy do site na plataforma
 
 ---
 
-## Rápida introdução ao tema do site
+## Rápida Introdução ao Tema do Site
 
 ### Sobre o que é?
 TecnologyWay! Uma startup dedicada a criar soluções educacionais inovadoras. O MakingQUIZ é nossa mais recente empreitada, uma IA voltada para a criação de questionários interativos e personalizados, visando aprimorar a experiência de aprendizagem dos usuários.

@@ -1,4 +1,4 @@
-# Site_Flask - Guia Prático(Part-1): Site sem Framework, com Deploy(Vercel)
+# Site_Flask - Guia Prático(Parte-1): Site sem Framework, com Deploy(Vercel)
 
 ## Introdução
 
